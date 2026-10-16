@@ -1,9 +1,9 @@
 #!/bin/bash
 
-##   Mazlo 	: 	Automated Phishing Tool
-##   Author 	: 	mazlo_sndi
+##   Zphisher : 	Automated Phishing Tool
+##   Author 	: 	TAHMID RAYAT 
 ##   Version 	: 	2.3.5
-##   Github 	: 	https://github.com/mazlosndi
+##   Github 	: 	https://github.com/htr-tech/zphisher
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
